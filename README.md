@@ -13,3 +13,12 @@ some_personal_devops_pack
     - copy ja_language.py
     - copy set_language.py
 
+
+---
+
+## Demo
+
+---
+
+![Github is not support the demo, please downolad and see](demo.mp4)
+
