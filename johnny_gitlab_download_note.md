@@ -22,3 +22,4 @@
 
 
 curl -L --request GET --header 'PRIVATE-TOKEN: 2hAN8AystTyy5NmsQCjp' 'https://gitlab.com/api/v4/projects/12482418/repository/files/00_Common_Lib%2Fja_system_lib%2Fja_language%2Epy/raw?ref=game_simulation_tool' > ja_language.py
+
